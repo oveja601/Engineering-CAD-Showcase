@@ -1,4 +1,4 @@
-# Engineering-CAD-Showcase
+# Engineering CAD Showcase
 A collection of mechanical and engineering CAD models designed using Onshape.
 
 ---
@@ -10,8 +10,8 @@ A collection of mechanical and engineering CAD models designed using Onshape.
 Click the image below to view the operation demonstration.> <
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dEsFdvUNxq7czSPp4Ksm2Lqd608b1Mo4/view?usp=drive_link">
-    <img src="images/demo.png" width="700">
+  <a href="https://cad.onshape.com/documents/f4111ffab0eccb1e3d445785/w/4bb6e7194043165b2c49d504/e/afd5fefd0b043a1373d3d421">
+    <img src="images/cs.png" width="700">
   </a>
 </p>
 
